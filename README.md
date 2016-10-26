@@ -153,7 +153,7 @@ Me->GroupFriend : select from trip
 
 GroupFriend->GroupTour : Contact Details
 
-GroupTour->TravalCompany : Check Group Tour \nand Conferm Tour
+GroupTour->Travelcompany : Check Group Tour \nand Conferm Tour
 
 Travelcompany->Guide : Supply Guide for Travel
 
@@ -172,12 +172,11 @@ Grouptour<-Bustour : Come back group tour \nand end trip
 
 
 
-
                                     PIC 5 Trip Hong Kong
                                     
                                     
                                     
-![](http://www.plantuml.com/plantuml/img/PP7BQWCn34Nt_WgH_Vn0AI4qVK78ghFinfbeKbFRChOSah-l_60oq8snfNFrkDubrf6piqgnOOkm6QC9y4d-0WSvDagf8mxRZqWvl4U3_WnFaD3Yn317Si32AxNATtYa70NTasSjx2koDZPriYI7xHZrLTizkQ3zlR0_EFr21Q3AlxsMVb9YnkXgIAaYGZiraVJAveoY_SeXs3kqvqmH6lUFVycfJzOL4k0IM6jgbSfoO_lq5U8A0Hk72xdU-EqMh3OUD0iviI6V5kw8ove-knD6e1a2Kh3OdIaDduT7Pt47uQH5SAc-yCENyXVD_PrSvG__0000)
+![](http://www.plantuml.com/plantuml/img/PP7FRiCW3CRlF8NLUrvWcgggtJzfwcavxa9JfqC3Z8ofrhUVGr2QQHS4zk_pPvjT5ijIWZT6d7Y4JSykmHl52xphiJ767B7RlZALzC8EunaU8AF7GM1a2Y3A6xFADxYdmeeUA8fLzWd5EfyREIMxRS_sYdwWa6oyJUmN3jzG0QZopsZLJqkCoA66ZFaZKg_YpgZQZvAIly7y78bXvlxn-v9RPqsX0Pa2QqsjKbcPsTPzXQH282xWGgudVlv9the8LfGSn57C2tV4PSnOmWaPQ8I4b3ospKo6ZztT-K01uMHLSAbxaVjUfh-Ojx_Jg_xXBm00)
 
 
 
